@@ -27,10 +27,17 @@ Checked environments:
 ![Screenshot of selecting "Install Plugin from disk"](images/screenshot_installing_osaifu.png)
 
 ### Settings
-The settings of OSAIFU 
+The following settings are required when using OSAIFU for the first time.
+1. Select "Preferences..." in "Android Studio" menu.
+2. Write "Android SDK Path", "API Level" and "API Level(Extra)". In the screenshot, "/Users/nishimoto/Library/Android/sdk", 0 and 29 are set respectively.
+![Screenshot of setting OSAIFU](images/screenshot_setting_osaifu.png)
+
+- Note that you can obtain Android SDK Path from Preferences of Android Studio.
+![Screenshot of getting Android SDK Path](images/screenshot_setting_sdk.png)
 
 ### Usage
+To use OSAIFU, just press the "analyze" button.
+![Screenshot of using OSAIFU](images/screenshot_usage_osaifu.png)
 
 ### Support or Contact
-
 Having trouble with Pages? Contact [us](mailto:nishimoto.masashi@ca.info.hiroshima-cu.ac.jp) and we’ll help you sort it out.
