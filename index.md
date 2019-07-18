@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## OSAIFU
 
-You can use the [editor on GitHub](https://github.com/imozuru/OSAIFU/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+OSAIFU is a tool for supporting program understanding, implemented as plugin for Android Studio.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+OSAIFU automatically factorizes source code at hand, i.e., extracts implemented functionalities from source code by analyzing relations among program elements and shows the summary to the user as a list of clickable tag clouds.
+The user can not only browse the list of the summaries to grasp the contents implemented in the source code, but also check how each functionality is implemented by clicking a tag cloud and looking at the corresponding part in the source code that is dynamically highlighted to make it easy to spot.
 
-### Markdown
+![Screenshot of OSAIFU](images/screenshot_osaifu.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+OSAIFU has been developed by Hata Masahiro, Masashi Nishimoto, Keiji Nishiyama, Hideyuki Kawabata and Tetsuo Hironaka at Hiroshima City University[1].
 
-```markdown
-Syntax highlighted code block
+[1]Masashi Nishimoto, Keiji Nishiyama, Hideyuki Kawabata, and Tetsuo Hironaka, Supporting Program Understanding by Automatic Indexing of Functionalities in Source Code, 17th IEEE/ACIS International Conference on Software Engineering, Management and Applications (SERA 2019), pp.13-18, 2019.
 
-# Header 1
-## Header 2
-### Header 3
+### Requirement
+Following programs are required to use OSAIFU.
+- Android Studio 3.4.2
 
-- Bulleted
-- List
+Checked environments:
+- macOS Mojava 10.14.5
 
-1. Numbered
-2. List
+### Installation
+1. Download the [file](https://github.com/imozuru/OSAIFU/blob/master/osaifu.zip).
+2. Launch Android Studio.
+3. Select "Preferences..." in "Android Studio" menu.
+4. Select "Install plugin from disk" in "Plugins".
+5. Give the downloaded file (osaifu.zip) to the opened folder selector.
+![Screenshot of selecting "Install Plugin from disk"](images/screenshot_installing_osaifu.png)
 
-**Bold** and _Italic_ and `Code` text
+### Settings
+The settings of OSAIFU 
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/imozuru/OSAIFU/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Usage
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Contact [us](mailto:nishimoto.masashi@ca.info.hiroshima-cu.ac.jp) and we’ll help you sort it out.
