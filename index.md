@@ -1,5 +1,7 @@
-## OSAIFU
+### News
+- Comming soon.
 
+### Overview
 OSAIFU is a tool for supporting program understanding, implemented as plugin for Android Studio.
 
 OSAIFU automatically factorizes source code at hand, i.e., extracts implemented functionalities from source code by analyzing relations among program elements and shows the summary to the user as a list of clickable tag clouds.
