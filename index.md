@@ -21,7 +21,7 @@ Checked environments:
 - macOS Mojava 10.14.5
 
 ### Installation
-1. Download the [file](https://github.com/imozuru/OSAIFU/blob/master/osaifu.zip).
+1. Download the [file](https://github.com/imozuru/OSAIFU/tree/master/plugin).
 2. Launch Android Studio.
 3. Select "Preferences..." in "Android Studio" menu.
 4. Select "Install plugin from disk" in "Plugins".
