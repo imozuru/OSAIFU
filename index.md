@@ -1,5 +1,5 @@
 ### News
-- Comming soon.
+- 2019/7/23 OSAIFU ver.0.0.1 release.
 
 ### Overview
 OSAIFU is a tool for supporting program understanding, implemented as plugin for Android Studio.
