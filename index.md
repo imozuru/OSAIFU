@@ -9,7 +9,7 @@ The user can not only browse the list of the summaries to grasp the contents imp
 
 ![Screenshot of OSAIFU](images/screenshot_osaifu.png)
 
-OSAIFU has been developed by Hata Masahiro, Masashi Nishimoto, Keiji Nishiyama, Hideyuki Kawabata and Tetsuo Hironaka at Hiroshima City University[1].
+OSAIFU has been developed by Masahiro Hata, Masashi Nishimoto, Keiji Nishiyama, Hideyuki Kawabata and Tetsuo Hironaka at Hiroshima City University[1].
 
 [1]Masashi Nishimoto, Keiji Nishiyama, Hideyuki Kawabata, and Tetsuo Hironaka, Supporting Program Understanding by Automatic Indexing of Functionalities in Source Code, 17th IEEE/ACIS International Conference on Software Engineering, Management and Applications (SERA 2019), pp.13-18, 2019.
 
